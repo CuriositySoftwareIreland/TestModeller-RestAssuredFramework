@@ -1,0 +1,12 @@
+# compiled output
+Framework/target/
+
+# IDEs and editors
+Framework/.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
